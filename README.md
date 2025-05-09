@@ -23,3 +23,8 @@
   it has alot of resources and it is free
 - Outline
 - Sketch
+- Abode XD
+# Benefits of wireframing
+- allows of early validation of ideas
+- user feedback gathering
+- risk reducation
