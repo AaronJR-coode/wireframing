@@ -17,3 +17,9 @@
   are detailed explation of the design including real contect such as figma.
 # Type of wireframe
 - Figma 
+# Types of tools for wireframing
+- FIGMA
+  this is the best wireframing tool to use during development process.
+  it has alot of resources and it is free
+- Outline
+- Sketch
