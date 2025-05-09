@@ -28,3 +28,5 @@
 - allows of early validation of ideas
 - user feedback gathering
 - risk reducation
+# wireframing in action
+-Imagine a team developing a new e-commerce app for local Blantyre businesses. They'd use wireframing to sketch out the basic layout and functionality of each screen, like the home page, product listings, and checkout process. This helps them visualize how users will interact with the app, identify potential usability issues, and ensure the structure aligns with business goals.
